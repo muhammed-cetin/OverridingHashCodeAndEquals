@@ -6,7 +6,7 @@ Bu proje, Java programlama dilinde `hashCode()` ve `equals()` metotlarını nas�
 
 Proje, aşağıdaki ana dosyaları içermektedir:
 
-- **Person.java:** Bu sınıf, `hashCode()` ve `equals()` metotlarını nasıl geçersiz kılacağımızı gösteren bir örnektir. Bu metotları kullanarak iki kişinin aynı olup olmadığını kontrol eder.
+- **Employee.java:** Bu sınıf, `hashCode()` ve `equals()` metotlarını nasıl geçersiz kılacağımızı gösteren bir örnektir. Bu metotları kullanarak iki kişinin aynı olup olmadığını kontrol eder.
 
 - **Main.java:** `Employee` sınıfının kullanımını gösteren bir örnek sınıf. İki kişinin eşit olup olmadığını kontrol etmek için `hashCode()` ve `equals()` metotlarını kullanır.
 
