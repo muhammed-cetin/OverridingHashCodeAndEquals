@@ -8,11 +8,11 @@ Proje, aşağıdaki ana dosyaları içermektedir:
 
 - **Person.java:** Bu sınıf, `hashCode()` ve `equals()` metotlarını nasıl geçersiz kılacağımızı gösteren bir örnektir. Bu metotları kullanarak iki kişinin aynı olup olmadığını kontrol eder.
 
-- **Main.java:** `Person` sınıfının kullanımını gösteren bir örnek sınıf. İki kişinin eşit olup olmadığını kontrol etmek için `hashCode()` ve `equals()` metotlarını kullanır.
+- **Main.java:** `Employee` sınıfının kullanımını gösteren bir örnek sınıf. İki kişinin eşit olup olmadığını kontrol etmek için `hashCode()` ve `equals()` metotlarını kullanır.
 
 ## Nasıl Kullanılır?
 
-Projeyi kullanmak oldukça basittir. `Main.java` dosyasını çalıştırarak `Person` sınıfının `hashCode()` ve `equals()` metotlarının nasıl çalıştığını gözlemleyebilirsiniz. Ayrıca, bu metotları doğru bir şekilde geçersiz kılmanın neden önemli olduğunu anlamak için bu metotların üzerine yazılmış sürümlerini inceleyebilirsiniz.
+Projeyi kullanmak oldukça basittir. `Main.java` dosyasını çalıştırarak `Employee` sınıfının `hashCode()` ve `equals()` metotlarının nasıl çalıştığını gözlemleyebilirsiniz. Ayrıca, bu metotları doğru bir şekilde geçersiz kılmanın neden önemli olduğunu anlamak için bu metotların üzerine yazılmış sürümlerini inceleyebilirsiniz.
 
 ##
 
